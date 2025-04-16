@@ -25,13 +25,13 @@ In your pull request description, you should include:
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
 | Stephen Ge | 3.238 | https://api.wandb.ai/links/stephenge/blg1vv9v | |
-| Joe Li | 3.29953 | images/joeli_leaderboard.png
+| Joe Li | 3.29953 | [Validation loss curve](images/joeli_leaderboard.png)
 | Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv | |
 | Christine Ye | 3.375 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
 | Harshvardhan Agarwal |      3.65 | https://api.wandb.ai/links/tokenization/0sald7rv |  |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
-| Hongyue Li | 3.79 | ./images/lhy.png  |  |
+| Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | Radostin Cholakov | 3.86 | https://api.wandb.ai/links/radi-cho/g3mwxocl |  |
 | Adam Zhao | 3.873 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
 | naive baseline |            5.00 |      |                          Verified |
