@@ -31,6 +31,7 @@ In your pull request description, you should include:
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
 | Harshvardhan Agarwal |      3.65 | https://api.wandb.ai/links/tokenization/0sald7rv |  |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
+| Hongyue Li | 3.79 | ./images/lhy.png  |  |
 | Radostin Cholakov | 3.86 | https://api.wandb.ai/links/radi-cho/g3mwxocl |  |
 | Adam Zhao | 3.873 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
 | naive baseline |            5.00 |      |                          Verified |
