@@ -31,6 +31,7 @@ In your pull request description, you should include:
 | Christine Ye | 3.375 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s  | |
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
+| Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e | |
 | Josiah Wong | 3.61 | [Validation loss curve](https://wandb.ai/cremebrule/cs336_leaderboard/reports/CS336-Assignment-1-Initial-Leaderboard-Submission--VmlldzoxMjMxMjU1MA) | |
 | Prateek Varshney | 3.62 | https://api.wandb.ai/links/stanfordcs/jlkmfbgj |
 | Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | | 
