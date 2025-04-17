@@ -37,5 +37,6 @@ In your pull request description, you should include:
 | Adam Zhao | 3.65 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
+| Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
 | Radostin Cholakov | 3.86 | https://api.wandb.ai/links/radi-cho/g3mwxocl |  |
 | naive baseline |            5.00 |      |                          Verified |
