@@ -24,7 +24,6 @@ In your pull request description, you should include:
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
-| Joshua Kazdan | 3.15 | https://api.wandb.ai/links/joshteam/157bp4zv | |
 | Stephen Ge | 3.238 | https://api.wandb.ai/links/stephenge/blg1vv9v | |
 | Joe Li | 3.29953 | [Validation loss curve](images/joeli_leaderboard.png)
 | Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu | |  
