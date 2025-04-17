@@ -34,6 +34,7 @@ In your pull request description, you should include:
 | Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv | |
 | Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r | |
 | Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s  | |
+| Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
 | Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e | |
 | Josiah Wong | 3.61 | [Validation loss curve](https://wandb.ai/cremebrule/cs336_leaderboard/reports/CS336-Assignment-1-Initial-Leaderboard-Submission--VmlldzoxMjMxMjU1MA) | |
@@ -46,5 +47,4 @@ In your pull request description, you should include:
 | Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse | |
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
-| Radostin Cholakov | 3.86 | https://api.wandb.ai/links/radi-cho/g3mwxocl |  |
 | naive baseline |            5.00 |      |                          Verified |
