@@ -45,6 +45,7 @@ In your pull request description, you should include:
 | Harshvardhan Agarwal |      3.65 | https://api.wandb.ai/links/tokenization/0sald7rv |  |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
 | Puheng Li | 3.71 | https://api.wandb.ai/links/puhengli-stanford-university/4x293zdb  |  | 
+| Angela Liu | 3.75 | https://api.wandb.ai/links/aliu917/fdx2pwqa  |  | 
 | Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse | |
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
