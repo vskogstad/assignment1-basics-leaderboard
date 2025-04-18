@@ -29,7 +29,7 @@ In your pull request description, you should include:
 | Stephen Ge | 3.238 | https://api.wandb.ai/links/stephenge/blg1vv9v | |
 | Tejas Narayanan | 3.25 | https://api.wandb.ai/links/tejas-narayanan/0wzu02xv | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
-| I-han Lai| 3.30|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
+| I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
 | Suze van Adrichem | 3.3134 | https://api.wandb.ai/links/suzevana/nfzefh73 | |
 | Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu | |  
 | Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv | |
