@@ -34,6 +34,7 @@ In your pull request description, you should include:
 | Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
+| Prateek | 3.29 | https://wandb.ai/stanfordcs/OWT%20Experiments/reports/--VmlldzoxMjM2NjQ2MQ | |
 | Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
 | Varun Desai | 3.298 | https://wandb.ai/vdesai10/owt_leaderboard/reports/Final-Leaderboard-Submission-Varun--VmlldzoxMjM2NjQ3NA?accessToken=ylvoskxok1cnhegx1i4gziphtc5eih16ylza2buzy13y1uoll58h7jhndr4dviq5 | |
 | Jack Hsieh | 3.3001 | https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment1/runs/ohdb5e0v/panel/mc4jbfhrm?nw=nwuserjackellishsieh | |
