@@ -31,9 +31,11 @@ In your pull request description, you should include:
 | Tejas Narayanan | 3.25 | https://api.wandb.ai/links/tejas-narayanan/0wzu02xv | |
 | Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
+| Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
 | Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
+| Varun Desai | 3.298 | https://wandb.ai/vdesai10/owt_leaderboard/reports/Final-Leaderboard-Submission-Varun--VmlldzoxMjM2NjQ3NA?accessToken=ylvoskxok1cnhegx1i4gziphtc5eih16ylza2buzy13y1uoll58h7jhndr4dviq5 | |
 | Michael Bereket | 3.30 | https://api.wandb.ai/links/mbereket/srr1jc5b | |
 | Suze van Adrichem | 3.3134 | https://api.wandb.ai/links/suzevana/nfzefh73 | |
 | Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu | |
@@ -55,7 +57,6 @@ In your pull request description, you should include:
 | Josiah Wong | 3.61 | [Validation loss curve](https://wandb.ai/cremebrule/cs336_leaderboard/reports/CS336-Assignment-1-Initial-Leaderboard-Submission--VmlldzoxMjMxMjU1MA) | |
 | orrzohar       |            3.61 |https://api.wandb.ai/links/marvl/xpyqen6p|
 | Prateek Varshney | 3.62 | https://api.wandb.ai/links/stanfordcs/jlkmfbgj |
-| Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | |
 | Karthik Dharmarajan | 3.67 | https://wandb.ai/kdharmarajan/cs336-asst1/reports/Validation-Loss-25-04-18-20-41-23---VmlldzoxMjM2NDk1OQ | |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
 | Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec | |
@@ -66,6 +67,7 @@ In your pull request description, you should include:
 | Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse | |
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
+| Brendan McLaughlin |  3.87 | [Validation loss curve](./images/brendan.png)  |  |
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o | |
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link | |
 | naive baseline |            5.00 |      |                          Verified |
