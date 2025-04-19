@@ -51,12 +51,12 @@ In your pull request description, you should include:
 | Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | |
 | Karthik Dharmarajan | 3.67 | https://wandb.ai/kdharmarajan/cs336-asst1/reports/Validation-Loss-25-04-18-20-41-23---VmlldzoxMjM2NDk1OQ | |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
+| Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8 | |
 | Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec | |
 | Angela Liu | 3.75 | https://api.wandb.ai/links/aliu917/fdx2pwqa  |  |
 | Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse | |
 | Hongyue Li | 3.79 | [Validation loss curve](./images/lhy.png)  |  |
 | Ryan Zhao | 3.84 | https://api.wandb.ai/links/knightasterial-stanforduniversity/j7z9j001 | |
-| Harry Shin | 3.85 | https://api.wandb.ai/links/dh2shin2-stanford-university/pfknvdyd | |
 | jshenoy | 3.99 | https://api.wandb.ai/links/jayshenoy-stanford-university/shpznb3o | |
 | Arya Bakhtiar | 4.00 | https://drive.google.com/file/d/1nKmlqy1UJ6ZlmWjhZe-jTTN6h4Vn2vZK/view?usp=drive_link | |
 
