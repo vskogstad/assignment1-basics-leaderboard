@@ -31,6 +31,7 @@ In your pull request description, you should include:
 | Tejas Narayanan | 3.25 | https://api.wandb.ai/links/tejas-narayanan/0wzu02xv | |
 | Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
+| Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
 | Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
