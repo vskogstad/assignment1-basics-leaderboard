@@ -27,7 +27,7 @@ In your pull request description, you should include:
 | Stephen Ge | 3.111 | https://api.wandb.ai/links/stephenge/cc9sewxe | |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | Herman Brunborg | 3.195| https://api.wandb.ai/links/brunborg-cs336/ei5cjuuw | |
-| Tejas Narayanan | 3.25 | https://api.wandb.ai/links/tejas-narayanan/0wzu02xv | |
+| Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
