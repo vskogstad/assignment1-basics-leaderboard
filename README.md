@@ -28,6 +28,7 @@ In your pull request description, you should include:
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | Herman Brunborg | 3.195| https://api.wandb.ai/links/brunborg-cs336/ei5cjuuw | |
 | Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
+| Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
@@ -38,10 +39,12 @@ In your pull request description, you should include:
 | Ashish Rao | 3.330 | https://api.wandb.ai/links/aprao/v79845cv | |
 | Arnuv Tandon | 3.33213 | https://wandb.ai/arnuv-tandon-stanford-university/cs336/reports/CS-336-Leaderboard--VmlldzoxMjM2NDY5OA?accessToken=eh8nugwo4d6zvq7sgajuni8892vfoomcp7k0klbqzkqrzj6h9ex789r38u76myrh | |
 | Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r | |
+| Divija Hasteer | 3.35628 | [Validation Loss Curve](images/dhasteer_leaderboard_sub.png) | |
 | Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s  | |
+| Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
 | Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
+| Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
 | Milan Rohatgi | 3.48 | https://api.wandb.ai/links/milanrohatgi/zuet4nhc |  |
-| Ken Liu | 3.549 | https://api.wandb.ai/links/kenziyuliu/58aaug9d |  |
 | Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
 | Sally Zhu | 3.55 | https://api.wandb.ai/links/sallyzhu-stanford-university/s6sd95zh |
 | Ziqing Huang | 3.55 | [https://api.wandb.ai/links/tyltto/rz1kejp](https://api.wandb.ai/links/tyltto/505dcz72) | |
