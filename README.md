@@ -48,6 +48,7 @@ In your pull request description, you should include:
 | Milan Rohatgi | 3.41 | [[https://api.wandb.ai/links/milanrohatgi/zuet4nhc](https://api.wandb.ai/links/milanrohatgi/abxkie8w)](https://api.wandb.ai/links/milanrohatgi/lq28xt0w) | |
 | Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
 | Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
+| Ramgopal Venkateswaran | 3.44    | https://api.wandb.ai/links/ramvenkat98/cvrfl2pa  |  |
 | Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
 | Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
 | Sally Zhu | 3.55 | https://api.wandb.ai/links/sallyzhu-stanford-university/s6sd95zh |
