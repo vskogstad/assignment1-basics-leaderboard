@@ -39,6 +39,7 @@ In your pull request description, you should include:
 | Arnuv Tandon | 3.33213 | https://wandb.ai/arnuv-tandon-stanford-university/cs336/reports/CS-336-Leaderboard--VmlldzoxMjM2NDY5OA?accessToken=eh8nugwo4d6zvq7sgajuni8892vfoomcp7k0klbqzkqrzj6h9ex789r38u76myrh | |
 | Mehmet Hamza Erol | 3.353 | https://api.wandb.ai/links/mhamzaerol-stanford-university/hcjj4l7r | |
 | Christopher Chou | 3.41 | https://api.wandb.ai/links/babychousr-stanford-university/ed9fu89s  | |
+| Katherine Li | 3.418 | https://api.wandb.ai/links/kathli/rmglb4ts |
 | Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
 | Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
 | Milan Rohatgi | 3.48 | https://api.wandb.ai/links/milanrohatgi/zuet4nhc |  |
