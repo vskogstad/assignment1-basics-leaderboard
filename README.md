@@ -62,6 +62,9 @@ In your pull request description, you should include:
 | Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | |
 | Karthik Dharmarajan | 3.67 | https://wandb.ai/kdharmarajan/cs336-asst1/reports/Validation-Loss-25-04-18-20-41-23---VmlldzoxMjM2NDk1OQ | |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
+| Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec | |
+| Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8 | |
+| Angikar Ghosal | 3.71 | [Validation loss curve](./images/angikar_owt_bestvalidationloss.png) | |
 | Justin Wu   | 3.71 | https://api.wandb.ai/links/justin-wu/9jrz2aep | |
 | Harry Shin | 3.70 | https://api.wandb.ai/links/dh2shin2-stanford-university/jueu6en8 | |
 | Harshit Joshi | 3.69 | https://wandb.ai/josharshit-stanford-university/cs336-basics/reports/CS-336--VmlldzoxMjM2NDcxMQ?accessToken=26yom3e3gznkpvg2yjispit1vhf4thw15i3xbj4hfckynojj0vc2g96bo7uedqec | |
