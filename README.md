@@ -36,6 +36,7 @@ In your pull request description, you should include:
 | I-han Lai| 3.29|https://wandb.ai/ihan-lai0924-stanford-university/cs336_hw1/reports/owt-validation-loss-25-04-18-01-16-13---VmlldzoxMjM1MjYwNA||
 | Pinlin [Calvin] Xu | 3.29688 | https://api.wandb.ai/links/pinlinxu-lab/rv9m2oqq | |
 | Varun Desai | 3.298 | https://wandb.ai/vdesai10/owt_leaderboard/reports/Final-Leaderboard-Submission-Varun--VmlldzoxMjM2NjQ3NA?accessToken=ylvoskxok1cnhegx1i4gziphtc5eih16ylza2buzy13y1uoll58h7jhndr4dviq5 | |
+| Jack Hsieh | 3.3001 | https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment1/runs/ohdb5e0v/panel/mc4jbfhrm?nw=nwuserjackellishsieh | |
 | Suze van Adrichem | 3.3134 | https://api.wandb.ai/links/suzevana/nfzefh73 | |
 | Chenchen Gu | 3.314 | https://api.wandb.ai/links/cygu/2cwahtxu | |
 | Michael Bereket | 3.315 | https://api.wandb.ai/links/mbereket/9sh7thnk | |
