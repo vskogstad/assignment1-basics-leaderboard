@@ -28,7 +28,7 @@ In your pull request description, you should include:
 | Stephen Ge | 3.111 | https://api.wandb.ai/links/stephenge/cc9sewxe | |
 | Brandon Snider | 3.156 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
-| Tejas Narayanan | 3.25 | https://api.wandb.ai/links/tejas-narayanan/0wzu02xv | |
+| Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
 | Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
