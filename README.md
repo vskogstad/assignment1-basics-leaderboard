@@ -49,6 +49,7 @@ In your pull request description, you should include:
 | orrzohar       |            3.61 |https://api.wandb.ai/links/marvl/xpyqen6p|
 | Prateek Varshney | 3.62 | https://api.wandb.ai/links/stanfordcs/jlkmfbgj |
 | Varun Desai | 3.63 | https://api.wandb.ai/links/vdesai10/all5y62k | |
+| Karthik Dharmarajan | 3.67 | https://wandb.ai/kdharmarajan/cs336-asst1/reports/Validation-Loss-25-04-18-20-41-23---VmlldzoxMjM2NDk1OQ | |
 | Shiny Weng |      3.67 | https://api.wandb.ai/links/shinyweng-stanford-university/xt471xol |  |
 | Angela Liu | 3.75 | https://api.wandb.ai/links/aliu917/fdx2pwqa  |  |
 | Herumb Shandilya | 3.76 | https://wandb.ai/krypticmouse/cs336-basics/runs/1zl172ay?nw=nwuserkrypticmouse | |
