@@ -55,7 +55,7 @@ In your pull request description, you should include:
 | Sai Konkimalla | 3.51 | https://api.wandb.ai/links/sai-konk/yf8ashf0 |  |
 | Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
 | Sally Zhu | 3.55 | https://api.wandb.ai/links/sallyzhu-stanford-university/s6sd95zh |
-| Ziqing Huang | 3.55 | [https://api.wandb.ai/links/tyltto/rz1kejp](https://api.wandb.ai/links/tyltto/505dcz72) | |
+| Ziqing Huang | 3.55 | https://api.wandb.ai/links/tyltto/505dcz72 | |
 | Ayush Alag | 3.56 | https://api.wandb.ai/links/ayushalag1-stanford-university/z56avu3c | |
 | Kyler Wang | 3.57 | https://api.wandb.ai/links/kylerwang-stanford-university/5znjvf3e | |
 | Adam Zhao | 3.58 | https://api.wandb.ai/links/zhao1adam-stanford-university/5zgjjs1h |
