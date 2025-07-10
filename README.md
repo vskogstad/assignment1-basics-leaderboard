@@ -60,7 +60,7 @@ It should not be easy to get a validation loss better than 3.3.
 | Harshvardhan Agarwal |      3.42 | https://api.wandb.ai/links/tokenization/dvezrvbp |  |
 | Ramgopal Venkateswaran | 3.44    | https://api.wandb.ai/links/ramvenkat98/cvrfl2pa  |  |
 | Ken Liu | 3.47 | https://api.wandb.ai/links/kenziyuliu/3z1f54qp |  |
-| Milan Rohatgi | 3.48 | https://api.wandb.ai/links/milanrohatgi/zuet4nhc |  |
+| Kaitlyn Wang | 3.50 | https://api.wandb.ai/links/kaitwang-stanford-university/wgigpj6h |  |
 | Sai Konkimalla | 3.51 | https://api.wandb.ai/links/sai-konk/yf8ashf0 |  |
 | Radostin Cholakov | 3.55 | https://api.wandb.ai/links/radi-cho/mrr13237 |  |
 | Sally Zhu | 3.55 | https://api.wandb.ai/links/sallyzhu-stanford-university/s6sd95zh |
@@ -103,6 +103,7 @@ It should not be easy to get a validation loss better than 3.3.
 | Brandon Snider | 3.1658 | https://api.wandb.ai/links/brandon-snider-stanford-university/v8n2t4py | Verified |
 | Joe Li | 3.19406 | [Validation loss curve](images/joe_better_muon.png)
 | Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
+| Hermann Kumbong | 3.22 | https://api.wandb.ai/links/hermannk/iwrvwesk | |
 | Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
