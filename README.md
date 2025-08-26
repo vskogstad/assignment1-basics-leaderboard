@@ -107,6 +107,7 @@ It should not be easy to get a validation loss better than 3.3.
 | Tejas Narayanan | 3.22 | https://api.wandb.ai/links/tejas-narayanan/n8itavzy | |
 | Hermann Kumbong | 3.22 | https://api.wandb.ai/links/hermannk/iwrvwesk | |
 | Ayush Agrawal | 3.261 | https://api.wandb.ai/links/ayushag2410/mcbnccjr | |
+| George Grigorev | 3.263 | https://api.wandb.ai/links/thepowerfuldeez/vrjnowju | |
 | Puheng Li | 3.268 | https://api.wandb.ai/links/puhengli-stanford-university/s1cokosj | |
 | Hongyue Li | 3.27| [Validation loss curve](images/hongyue_li.png) | |
 | Christine Ye | 3.283 | https://api.wandb.ai/links/christineye/dhqwbfqa | |
